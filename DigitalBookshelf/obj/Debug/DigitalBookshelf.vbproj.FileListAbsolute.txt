@@ -1,0 +1,50 @@
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\bin\Debug\DigitalBookshelf.exe.config
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\bin\Debug\DigitalBookshelf.exe
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\bin\Debug\DigitalBookshelf.pdb
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\bin\Debug\DigitalBookshelf.xml
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.vbprojAssemblyReference.cache
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmAboutUs.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmPrivancyPolicy.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.Resources.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.vbproj.GenerateResource.cache
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.exe
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.xml
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.pdb
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmLibrary.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmHistory.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmAddAndDeleteQuotes.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmAddNewBook.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmReadingBooks.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.SplashScreen.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmCategories.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmPieChart.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmChartsPreBuilt.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmBarChartReport.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmDeleteGategory.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmMultipleDeleteBook.resources
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\bin\Debug\DigitalBookshelf.exe.config
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\bin\Debug\DigitalBookshelf.exe
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\bin\Debug\DigitalBookshelf.pdb
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\bin\Debug\DigitalBookshelf.xml
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.vbprojAssemblyReference.cache
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmAddNewBook.resources
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmCategories.resources
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmDeleteGategory.resources
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmAddAndDeleteQuotes.resources
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmLibrary.resources
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmAboutUs.resources
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmHistory.resources
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmPrivancyPolicy.resources
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmReadingBooks.resources
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmMultipleDeleteBook.resources
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.Resources.resources
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmPieChart.resources
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmChartsPreBuilt.resources
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.SplashScreen.resources
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.frmBarChartReport.resources
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.vbproj.GenerateResource.cache
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.vbproj.CoreCompileInputs.cache
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.exe
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.xml
+C:\WHITEUSB 8G\DigitalBookshelf\DigitalBookshelf\obj\Debug\DigitalBookshelf.pdb

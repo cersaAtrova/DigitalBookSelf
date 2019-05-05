@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0CD399A6-944C-4936-BFD8-EE910235DA3C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>DigitalBookshelf.My.MyApplication</StartupObject>
+    <RootNamespace>DigitalBookshelf</RootNamespace>
+    <AssemblyName>DigitalBookshelf</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DigitalBookshelf.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DigitalBookshelf.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>book.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddNewBook.Designer.vb">
+      <DependentUpon>AddNewBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Categories.Designer.vb">
+      <DependentUpon>Categories.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Categories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteGategory.Designer.vb">
+      <DependentUpon>DeleteGategory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteGategory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddAndDeleteQuotes.Designer.vb">
+      <DependentUpon>frmAddAndDeleteQuotes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddAndDeleteQuotes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DigitalBookshelf.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DigitalBookshelf.Designer.vb">
+      <DependentUpon>DigitalBookshelf.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAboutUs.Designer.vb">
+      <DependentUpon>frmAboutUs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAboutUs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHistory.Designer.vb">
+      <DependentUpon>frmHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrivancyPolicy.Designer.vb">
+      <DependentUpon>frmPrivancyPolicy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrivancyPolicy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReadingBooks.Designer.vb">
+      <DependentUpon>frmReadingBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReadingBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuleLiabrary.vb" />
+    <Compile Include="MultipleDeleteBook.Designer.vb">
+      <DependentUpon>MultipleDeleteBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MultipleDeleteBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PieChart.Designer.vb">
+      <DependentUpon>PieChart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PieChart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChartsSelectTypeToBuilt.Designer.vb">
+      <DependentUpon>ChartsSelectTypeToBuilt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ChartsSelectTypeToBuilt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.vb">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BarChart.Designer.vb">
+      <DependentUpon>BarChart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BarChart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddNewBook.resx">
+      <DependentUpon>AddNewBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categories.resx">
+      <DependentUpon>Categories.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteGategory.resx">
+      <DependentUpon>DeleteGategory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddAndDeleteQuotes.resx">
+      <DependentUpon>frmAddAndDeleteQuotes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DigitalBookshelf.resx">
+      <DependentUpon>DigitalBookshelf.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAboutUs.resx">
+      <DependentUpon>frmAboutUs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHistory.resx">
+      <DependentUpon>frmHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrivancyPolicy.resx">
+      <DependentUpon>frmPrivancyPolicy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReadingBooks.resx">
+      <DependentUpon>frmReadingBooks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultipleDeleteBook.resx">
+      <DependentUpon>MultipleDeleteBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PieChart.resx">
+      <DependentUpon>PieChart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartsSelectTypeToBuilt.resx">
+      <DependentUpon>ChartsSelectTypeToBuilt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BarChart.resx">
+      <DependentUpon>BarChart.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="book.ico" />
+    <Content Include="Capture-1.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\bin\Debug\1517.exe.config
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\bin\Debug\1517.exe
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\bin\Debug\1517.pdb
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\bin\Debug\1517.xml
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\obj\Debug\1517.vbprojAssemblyReference.cache
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\obj\Debug\_1517.Resources.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\obj\Debug\1517.vbproj.GenerateResource.cache
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\obj\Debug\1517.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\obj\Debug\1517.exe
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\obj\Debug\1517.xml
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\obj\Debug\1517.pdb
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\obj\Debug\_1517.frmBibliothiki.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\obj\Debug\_1517.frmSingIn.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\obj\Debug\_1517.frmSignUp.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\obj\Debug\_1517.frmPrivancyPolicy.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\obj\Debug\_1517.frmAboutUs.resources
+C:\Users\User\Documents\2nd Academic Year Spring 2019\CSC 221\assignment\1517\1517\obj\Debug\_1517.frmGenresBooks.resources
